@@ -1,0 +1,12 @@
+export const AdminResourcesPage = '/admin-resourcespage';
+export const AdminRequestsPage = '/resourcemanagement-signin-page/admin-requestspage';
+export const AdminUsersPage = '/resourcemanagement-signin-page/admin-userspage';
+export const UpdateItemPage = '/updateItem-page';
+export const AdminDashBoardPage = '/admin-dashboard';
+export const ResourcesDetailsPath = '/admin-dashboard/:id';
+export const AddResourcePath = '/admin-dashboard/add-resource';
+export const UpdateResourcePath = '/admin-dashboard/:id/updateresource';
+export const AddItemPath = '/admin-dashboard/:id/addItem';
+export const UpdateItemPath = '/admin-dashboard/:id/:itemId';
+export const UserDetailsPath = '/:id/user';
+export const AddUserItemPath = '/:id/user/addUserItem';

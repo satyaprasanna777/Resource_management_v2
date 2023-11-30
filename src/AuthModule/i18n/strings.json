@@ -1,0 +1,23 @@
+{
+    "signUpHeading": "Hi there, please sign up",
+    "userNameLabel": "USER NAME",
+    "passWordLabel": "PASSWORD",
+    "confirmPasswordLabel": "CONFIRM PASSWORD",
+    "signUpButtonText": "SIGNUP",
+    "emptyUserName": "Please enter username",
+    "emptyPassword": "Please enter password",
+    "emptyConfirmPassword": "Please enter Confirm Password",
+    "passWordMissMatch": "Password and Confirm Password MustBe Same",
+    "alreadyHaveAnAccount": "Already have an account? ",
+    "loginLinkText": "Log in",
+    "hiThere": "Hi there,",
+    "pleaseSignIn": " please sign in",
+    "signInButtonText": "LOGIN",
+    "dontHaveAccount": "Don't have an account? ",
+    "signUpText": " Signup",
+    "userNamePlaceholder": "Username",
+    "passwordPlaceholder": "Password",
+    "confirmPassword": "Confirm Password"
+
+
+}

@@ -1,0 +1,93 @@
+{
+
+    "addResource": {
+        "headingText": "Add a Resource",
+        "linkTextForLabel": "LINK",
+        "discriptionTextForLabel": "DESCRIPTION",
+        "nameTextForLabel": "NAME",
+        "goBackButtonText": "< Resources",
+        "createButtonText": "CREATE"
+    },
+    "updateResource": {
+        "headingText": "Update a Resource",
+        "linkTextForLabel": "LINK",
+        "discriptionTextForLabel": "DESCRIPTION",
+        "nameTextForLabel": "NAME",
+        "goBackButtonText": "< Resources",
+        "updateButtonText": "UPDATE"
+    },
+    "resourceDetails": {
+        "addButtonText": "ADD ITEM",
+        "deleteButtonText": "DELETE",
+        "previousPage": "<",
+        "lastPage": ">"
+    },
+    "resources": "My Resources",
+    "requests": "My Requests",
+    "users": "Users",
+    "cloudServices": "Cloud Services",
+    "addResourceButtonText": "+add",
+    "acceptButtonText": "ACCEPT",
+    "rejectButtonText": "REJECT",
+    "searchBarPlaceholderText": "Search",
+    "pendingRequest": "Pending Requests",
+    "personName": "PERSON NAME",
+    "itemLevel": "ITEME LEVEL",
+    "accessLevel": "ACCESS LEVEL",
+    "item": "ITEM",
+    "resource": "RESOURCE",
+    "dueDateTime": "DUE DATE TIME",
+    "resourceDetailsText": "Resource Details",
+    "resourceNameText": "RESOURCE NAME",
+    "linkTextForLabel": "LINK",
+    "discriptionTextForLabel": "DESCRIPTION",
+    "itemIdTextForLabel": "ITEM ID",
+    "resourceIdTextForLabel": "RESOURCE ID",
+    "changePhoto": "CHANGE PHOTO",
+    "updateResource": "UPDATE RESOURCE",
+    "updateTextForButton": "UPDATE",
+    "itemsTextInResourceDetails": "Items",
+    "sortText": "SORT",
+    "asscendingText": "ASSCENDING",
+    "descendingText": "DESCENDING",
+    "goBackButtonText": " <  Resources",
+    "titleText": "TITLE",
+    "createButtonText": "CREATE",
+
+    "addItem": {
+        "headingText": "Item Details",
+        "itemNameLabelText": "ITEM NAME",
+        "linkTextForLabel": "LINK",
+        "discriptionTextForLabel": "DESCRIPTION",
+        "createButtonText": "CREATE",
+        "resourceNameLabelText": "RESOURCE NAME"
+    },
+    "updateItem": {
+        "headingText": "Item Details",
+        "itemNameLabelText": "ITEM NAME",
+        "linkTextForLabel": "LINK",
+        "discriptionTextForLabel": "DESCRIPTION",
+        "resourceNameLabelText": "RESOURCE NAME",
+        "createButtonText": "UPDATE ITEM",
+        "itemIdTextForLabel": "ITEM ID"
+
+    },
+    "usersList": {
+        "personNameText": "PERSON NAME",
+        "departmentText": "DEPARTMENT",
+        "jobRoleText": "JOB ROLE"
+    },
+    "UserDetails": {
+        "itemsText": "ITEMS"
+    },
+    "newRequest": {
+        "resourceLabel": "RESOURCE NAME",
+        "itemLabel": "ITEM NAME",
+        "accessLevelLabel": "ACCESS LEVEL",
+        "reasonLabel": "REASON FOR ACCESS",
+        "calendarLabel": "DATE AND TIME",
+        "submitButtonText": "SUBMIT",
+        "selectLabel": "Select one option"
+    }
+
+}

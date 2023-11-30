@@ -1,0 +1,64 @@
+{
+    "resource_id": 1,
+    "items": [{
+            "item_id": 1,
+            "useritem_id": "1",
+            "name": "name",
+            "link": "link",
+            "resource": "resourceName",
+            "description": "discription",
+            "access_level": "read",
+            "item": "item name",
+            "item_level": "itemLeve",
+            "person_name": "user"
+        },
+        {
+            "item_id": 2,
+            "useritem_id": "2",
+            "name": "dsfkl",
+            "link": "xmdnfj.",
+            "resource": "resourceName",
+            "description": "discription",
+            "item_level": "dkxf;",
+            "person_name": "user",
+            "access_level": "read",
+            "item": "item name"
+        },
+        {
+            "item_id": 3,
+            "useritem_id": "3",
+            "name": "jepri",
+            "link": "dsfj;djg",
+            "resource": "fxd;glf",
+            "description": "discription",
+            "item_level": "fdj;gjodfg",
+            "person_name": "user",
+            "access_level": "read",
+            "item": "item name"
+        },
+        {
+            "item_id": 4,
+            "useritem_id": "4",
+            "name": "ndrjgo;ame1",
+            "link": "some link",
+            "resource": "resource name",
+            "description": "discription",
+            "item_level": "item.mdxf.Leve",
+            "person_name": "user",
+            "item": "item name",
+            "access_level": "read"
+        },
+        {
+            "item_id": 5,
+            "useritem_id": "5",
+            "name": "namdfkj;gfe1",
+            "link": "some link",
+            "resource": "resource",
+            "description": "discrmx.dn.vxc iption",
+            "item_level": "itedfngkldfv mLeve",
+            "person_name": "user",
+            "item": "item name",
+            "access_level": "read"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+[{
+        "useritem_id": 1,
+        "item": "item",
+        "link": "something link is given",
+        "resource": "Resource Name",
+        "access_level": "read"
+
+    },
+    {
+        "useritem_id": 2,
+        "item": "item",
+        "link": "something link is given",
+        "resource": "Resource Name",
+        "access_level": "read"
+    },
+    {
+        "useritem_id": 3,
+        "item": "item",
+        "link": "something link is given",
+        "resource": "Resource Name",
+        "access_level": "read"
+
+    },
+    {
+        "useritem_id": 4,
+        "item": "item",
+        "link": "something link is given",
+        "resource": "Resource Name",
+        "access_level": "read"
+
+    },
+    {
+        "useritem_id": 5,
+        "item": "name5",
+        "link": "something link is given",
+        "resource": "Resource Name",
+        "access_level": "read"
+    },
+    {
+        "useritem_id": 6,
+        "item": "name7",
+        "link": "something link is given",
+        "resource": "Resource Name",
+        "access_level": "read"
+    }
+]
